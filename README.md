@@ -1,7 +1,7 @@
 Necessary pip packages:
 praw, pandas
 
-data.json file template:
+`data.json file template:
 {
     "reddit_creds": {
         "client_id": "<client id>",
@@ -10,4 +10,4 @@ data.json file template:
     "username" : "<reddit user name>", #not mandatory
     "password" : "<reddit password>" #not mandatory
     }
-}
+}`
